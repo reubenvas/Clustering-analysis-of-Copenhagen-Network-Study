@@ -10,7 +10,7 @@ In this project, our team employed advanced data mining techniques to analyze th
 - Vilmer Olin
 
 ## Data Sources and Preprocessing
-- **Source:** Interaction records from the Copenhagen Network Study, including SMS, call logs, and Bluetooth proximity.
+- **Source:** Interaction records from the [Copenhagen Network Study](https://www.nature.com/articles/s41597-019-0325-x), including SMS, call logs, and Bluetooth proximity.
 - **Preprocessing:** Detailed steps involving data cleaning, normalization, and handling of missing data to prepare the dataset for analysis.
 
 ## Objectives
